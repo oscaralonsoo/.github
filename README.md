@@ -75,7 +75,7 @@ We are a group of third-year students from <a href="https://www.citm.upc.edu/">C
     Claudia Ruiz (3D Artist): <a href=https://github.com/Claurm12>Claurm12</a>
   </li>
   <li>
-    David Subirats (Music Composer): <a href=https://github.com/Deivid13SB>Apb8</a>
+    David Subirats (Music Composer): <a href=https://github.com/Deivid13SB>Deivid13SB</a>
   </li>
   <li>
     Iván Álvarez (3D Artist): <a href=https://github.com/Ivalpe>Ivalpe</a>
